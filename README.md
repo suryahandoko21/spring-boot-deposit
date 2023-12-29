@@ -1,11 +1,12 @@
 Requirement
-o Spring IoC,
-o Java Stream,
-o Advance Native SQL query,
-o containerization & microservices
-o Kafka & Stream Based Application
-o Redis, Caching Strategy & Data Grid
-o Elastic & Other Non Relational DB
+- Spring IoC,
+- Java Stream,
+- Advance Native SQL query,
+- containerization & microservices
+- Kafka & Stream Based Application
+- Redis, Caching Strategy & Data Grid
+- Elastic & Other Non Relational DB
+  
 
 ==== Run Application ====
 - docker-compose up -d
